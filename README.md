@@ -2,7 +2,7 @@
 chatbot dengan rag pdf gemini flash 2.5
 
 jalankan perintah ini untuk membuat virtual environment
-python -m venv venv
+python3 -m venv venv
 
 Selanjutnya jalankan di Linux / Codespaces:
 source venv/bin/activate
